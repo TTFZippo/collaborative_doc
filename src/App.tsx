@@ -2,7 +2,7 @@
  * @Author: TTFZippo
  * @Date: 2022-10-15 20:01:18
  * @LastEditors: TTFZippo
- * @LastEditTime: 2022-10-15 20:40:08
+ * @LastEditTime: 2022-10-15 21:29:43
  * @Description: 
  */
 // import React from 'react';
@@ -14,6 +14,7 @@ import {
   Routes,
   Route
 } from "react-router-dom";
+// import types from './types/index'
 
 function App() {
   return (
